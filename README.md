@@ -26,11 +26,12 @@
 
 # Making the code Production Ready ( Session-3 )
 
-* ## Logging
-* ## Exception Handling ( try except block)
-* ## Debugging
-* ## Unit Testing
-* ## Code Deployment Basics ( Environment, Operating System, etc)
+* ## [Logging](https://docs.python.org/3/howto/logging.html)
+* ## [Exception Handling ( try except block)](https://docs.python.org/3/tutorial/errors.html)
+* ## [Debugging](https://code.visualstudio.com/docs/python/debugging)
+* ## [Unit Testing](https://docs.python.org/3/library/unittest.html)
+* ## [Code Deployment Basics ( Environment, Operating System, etc)](https://packaging.python.org/en/latest/guides/distributing-packages-using-setuptools/)]
+* ## [Packaging Python Projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/#packaging-python-projects)
 
 # Practice ( Session-4 )
 
