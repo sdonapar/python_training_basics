@@ -36,3 +36,11 @@ conda activate training
 ```bash
 conda install requests
 ```
+
+## Install Python
+
+## Create virtualenv using default venv packate
+
+```python
+python -m venv <virtual_env_name>
+```
